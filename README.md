@@ -1,3 +1,7 @@
+Use https://github.com/thiago-negri/kickstart.nvim
+
+....
+
 For Windows:
 
 ```
